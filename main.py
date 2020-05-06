@@ -8,12 +8,13 @@ bot = telebot.TeleBot('1088368052:AAErWQO3QqQrzFzoJbVpyVlZ9Urye250VA8')
 
 @bot.message_handler(content_types=['text'])
 def mess(message):
-    get_message_bot = message.text.strip().lower()
+    m_b = message.text.strip().lower()
     rnd = randint(0, 10)
     m1 = 'mek'
     m2 = 'мек'
-    print(rnd)
-    if (m1 in get_message_bot) or (m2 in get_message_bot):
+    m3 = "кош"
+    m4 = "кот "
+    if (m1 in m_b) or (m2 in m_b) or (m3 in m_b) or (m4 in m_b):
         if rnd > 3:
             final_message = f'{mek_dict[randint(1, len(mek_dict))]}'
             bot.send_message(message.chat.id, final_message)
