@@ -1,0 +1,17 @@
+asyncqt==0.8.0
+beautifulsoup4==4.9.0
+certifi==2020.4.5.1
+chardet==3.0.4
+COVID19Py==0.3.0
+idna==2.9
+numpy==1.18.4
+pycrypto==2.6.1
+PySide2==5.14.1
+pyTelegramBotAPI==3.7.1
+requests==2.23.0
+shiboken2==5.14.1
+simple-crypt==4.1.7
+six==1.14.0
+soupsieve==2.0
+telegram==0.0.1
+urllib3==1.25.8
