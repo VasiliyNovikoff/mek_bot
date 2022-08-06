@@ -5,7 +5,7 @@ from random import randint
 from mek_photo_dict import m_f_d
 
 
-with open(".gitignore/token.yml") as f:
+with open("token.yml") as f:
     f = yaml.load(f, Loader=yaml.FullLoader)
     token = f['token']
 
