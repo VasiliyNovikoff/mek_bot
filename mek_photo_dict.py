@@ -22,5 +22,10 @@ m_f_d = {
     21: 'https://sun4-11.userapi.com/RJFI-6VQnZf_dGe2V9Y1SK4qYfwwhsu44TNQIw/wlD4lT2-AKM.jpg',
     22: 'https://sun4-12.userapi.com/U1APaPUDRNTZR1LGCPSA2GyexfKUiYu3aQWiiw/751muVKUMR0.jpg',
     23: 'https://sun4-16.userapi.com/G6vTs8O7r5xD2lizp_tGIKPUhuQAPh8Nb2SOSA/k-D5P8Rl8vQ.jpg',
-    24: 'https://sun4-17.userapi.com/Rvsrrfm0WmoOaIWpmfEI4bo9EHC3V11Y6jY0HA/G92eWqiO324.jpg'
+    24: 'https://sun4-17.userapi.com/Rvsrrfm0WmoOaIWpmfEI4bo9EHC3V11Y6jY0HA/G92eWqiO324.jpg',
+    25: 'https://psv4.userapi.com/c856324/u114895050/docs/d12/0d8fb53c191b/IMG_9385-2.gif?extra=AiHkClGVqhHDlURamjDgGLDMsXznK-N-dbkb5qKAXET_UV3fyXWl-ljz3IH1VIUDu8MWnnuDzxsx9mzS7P0Sqz0m8mhVKtYJLcXB3_UpR4Jgh64NEC31x1vySUZDRWLVJLZDi-pdVJURqM3A_B2v62CcKwI',
+    26: 'https://sun4-11.userapi.com/TWXeJv3SoWFGCGdrCgY3KmMGZBXmpO0bvEo1YA/QUTIZdy4ME0.jpg',
+    27: 'https://sun4-16.userapi.com/aF2RyJ3_THqDiDvm-VdvlBf3s7lSPogc8LStkg/BlqjrLJRfGQ.jpg',
+    28: 'https://sun4-16.userapi.com/Kh9jhtT9NKjN0V55az9OK-fegqxjv4dlkTKU-Q/XubWrhr9oVE.jpg',
+    29: 'https://sun4-17.userapi.com/5hgry0FuDza8gSBg5-ICa1rlMUyRedkB4zWTlQ/OlVMejBAHCE.jpg'
 }
